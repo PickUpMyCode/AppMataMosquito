@@ -10,7 +10,15 @@
 
 ---
 
-<p align="center">Webgame feito com javascript e bootstrap. Tente matar todos os mosquitos que aparecem na tela sem perder todas as vidas.</p>
+<p align="center">Webgame feito com <b>javascript</b> e <b>bootstrap</b>. Tente matar todos os mosquitos que aparecem na tela sem perder todas as vidas.</p>
 
 ---
 
+## How to play
+
+Basta abrir o arquivo index.html e selecionar o modo de jogo.
+
+---
+<h4 align="center">
+ by Matheus Viana 👨‍💻
+</h4>
